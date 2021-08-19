@@ -17,7 +17,6 @@ def quick_sort(data):
     else:
         return data
 
-
 if __name__ == "__main__":
     some_list = [4,6,31,3,6,7,8,4,77,3,3,222,2,2,34,5,6,7,88,5,5,4,33]
     print(quick_sort(some_list))
